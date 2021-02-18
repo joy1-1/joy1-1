@@ -1,5 +1,5 @@
 <img height="400" width="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-<h1 align="center">Hi 👋, I'm JOY</h1>
+<h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 - 🔭 I’m currently studying on **American International University-Bangladesh**
