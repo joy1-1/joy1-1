@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently studying on **American International University-Bangladesh**
 
-- 🌱 I’m currently learning **React || HTML || || PHP || Javascript**
+- 🌱 I'm currently learning **React || HTML || || PHP || || C# || || JAVA || || PHY || Javascript ||**
 
-- 👯 I’m looking to collaborate on **Website Developing**
+- 👯 I'm looking to collaborate on **Website Developing**
 
-- 💬 Ask me about **Html , CSS , Javascript**
+- 💬 Ask me about **Html, CSS, Javascript**
 
 - 📫 How to reach me **joykormokar7@gmail.com**
 
