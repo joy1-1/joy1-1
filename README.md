@@ -4,7 +4,7 @@
 
 - I’m currently studying on **American International University-Bangladesh**
 
-- I'm currently learning **React || HTML || || PHP || || C# || || JAVA || || PHY || Javascript ||**
+- I'm currently learning **|| React || HTML || || PHP || || C# || || JAVA || || PHY || Javascript ||**
 
 - I'm looking to collaborate on **Website Developing**
 
