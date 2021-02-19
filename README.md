@@ -1,18 +1,18 @@
 <img height="400" width="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-<h1 align="center">Hi 👋, I'm Joy</h1>
+<h1 align="center">Hi Guys👋, I'm Joy</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-- 🔭 I’m currently studying on **American International University-Bangladesh**
+- I’m currently studying on **American International University-Bangladesh**
 
-- 🌱 I'm currently learning **React || HTML || || PHP || || C# || || JAVA || || PHY || Javascript ||**
+- I'm currently learning **React || HTML || || PHP || || C# || || JAVA || || PHY || Javascript ||**
 
-- 👯 I'm looking to collaborate on **Website Developing**
+- I'm looking to collaborate on **Website Developing**
 
-- 💬 Ask me about **Html, CSS, Javascript**
+- Ask me about **Html, CSS, Javascript**
 
-- 📫 How to reach me **joykormokar7@gmail.com**
+- How to reach me **joykormokar7@gmail.com**
 
-- ⚡ Fun fact **I'm just a beginner**
+- Fun fact **I'm just a beginner**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy1-1&label=Profile%20views&color=0e75b6&style=flat" alt="joy1-1" /> </p>
 
