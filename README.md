@@ -8,8 +8,6 @@
 
 - I'm looking to collaborate on **Website Developing**
 
-- Ask me about **Html, CSS, Javascript**
-
 - How to reach me **joykormokar7@gmail.com**
 
 - Fun fact **I'm just a beginner**
