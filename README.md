@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/Mr.Karmokar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt= height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Joy-Karmokar-6982b81ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt= height="30" width="40" /></a>
+<a href="linkedin.com/in/joy-karmokar-3b83b120b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt= height="30" width="40" /></a>
 <a href="https://instagram.com/thekarmokar420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt= height="30" width="40" /></a>
   <a href="https://twitter.com/joykarmokar6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt= height="30" width="40" /></a>
 </p>
