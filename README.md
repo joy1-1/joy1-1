@@ -6,7 +6,7 @@
 
 - I've Knowledge **|| React || HTML || PHP || C# || JAVA || Python || Javascript || MySQL ||**
 
-- 📊 Data Analyst Enthusiast | Passionate about unraveling insights from data 📈 | Open to collaboration and learning opportunities 🌱
+- I'm Data Analyst Enthusiast | Passionate about unraveling insights from data | Open to collaboration and learning opportunities 🌱
 
 - How to reach me **joykormokar7@gmail.com**
 
