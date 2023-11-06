@@ -1,16 +1,16 @@
 <img height="400" width="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <h1 align="center">Hi Guys👋, I'm Joy</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h3 align="center">A passionate Data Analyst from Bangladesh</h3>
 
-- I’m currently studying on **American International University-Bangladesh**
+- I’m currently Working as an Data Analyst at **Orbitax Bangladesh**
 
-- I'm currently learning **|| React || HTML || PHP || C# || JAVA || Python || Javascript ||**
+- I've Knowledge **|| React || HTML || PHP || C# || JAVA || Python || Javascript || MySQL ||**
 
-- I'm looking to collaborate on **Website Developing**
+- 📊 Data Analyst Enthusiast | Passionate about unraveling insights from data 📈 | Open to collaboration and learning opportunities 🌱
 
 - How to reach me **joykormokar7@gmail.com**
 
-- Fun fact **I'm just a beginner**
+- Fun fact **I'm Still Learning**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonkomarev&label=Profile%20views&color=0e75b6&style=flat" alt="antonkomarev" /> </p>
 
