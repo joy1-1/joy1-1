@@ -2,7 +2,7 @@
 <h1 align="center">Hi Guys👋, I'm Joy</h1>
 <h3 align="center">A passionate Data Analyst from Bangladesh</h3>
 
-- I’m currently working as an Data Analyst at **Orbitax Bangladesh**
+- I’m currently working as an Jr. IT Officer at **Melody & Co.**
 
 - I've Knowledge **|| React || HTML || PHP || C# || JAVA || Python || Javascript || MySQL ||**
 
